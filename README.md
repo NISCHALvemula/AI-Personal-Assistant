@@ -1,4 +1,4 @@
-# AI Personal Assistant 🤖
+# AI Personal Assistant 
 
 A personal AI assistant built using **LangChain** to demonstrate agent development, tool calling, conversation memory, middleware, and human-in-the-loop workflows.
 
